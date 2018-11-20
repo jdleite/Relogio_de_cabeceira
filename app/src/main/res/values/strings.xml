@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">RelogioDeCabeceira</string>
     <string name="nivel_bateria">Nivel da bateria</string>
+    <string name="nivel_da_bateria">Nivel da Bateria</string>
 
 
 </resources>
